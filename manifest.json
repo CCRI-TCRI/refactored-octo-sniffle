@@ -1,0 +1,10 @@
+{
+  "name": "Stillwater",
+  "short_name": "Stillwater",
+  "description": "Small daily rituals for a calmer mind.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf7f1",
+  "theme_color": "#16243a",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
